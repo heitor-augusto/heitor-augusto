@@ -35,18 +35,6 @@
 
 * OS/Dev Environment: Windows · VS Code
 
-
----
-
-## 📈 GitHub Stats
-
-
-
----
-
-## 🚀 Highlight Projects
-
-
 ---
 
 ## 🎯 Current Focus
